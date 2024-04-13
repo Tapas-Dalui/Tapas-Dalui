@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tapas-Dalui
-- 👀 I’m interested in ... HTML,CSS,JS
-- 🌱 I’m currently learning ...MERN Stack
-- 📫 How to reach me ...tdalui865@gmail.com
+- 👀 I’m interested in ... HTML,CSS,JS, Java
+- 🌱 I’m currently learning ...Java Full Stack
+- 📫 How to reach me ... tdalui865@gmail.com
 
 
 <!---
